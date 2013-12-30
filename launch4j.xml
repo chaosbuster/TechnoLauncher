@@ -1,0 +1,26 @@
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Jeanette\workspace\TechnoLauncher\eclipse\TechnoLauncher\release\TechnoLauncher.jar</jar>
+  <outfile>C:\Users\Jeanette\workspace\TechnoLauncher\eclipse\TechnoLauncher\release\TechnoLauncher.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl>http://techno-chaos.com</supportUrl>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon>C:\Users\Jeanette\workspace\TechnoLauncher\eclipse\TechnoLauncher\src\resources\Icon.ico</icon>
+  <classPath>
+    <mainClass>com.atlauncher.App</mainClass>
+    <cp>.</cp>
+  </classPath>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <minVersion>1.6.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+  </jre>
+</launch4jConfig>
